@@ -4,7 +4,7 @@ This is a basic keyboard teleoperation/control module built for ROS Noetic. Inte
 
 HOW TO INSTALL
 
-cd to the src folder in your catkin workspace, and clone this repository there (assuming you have ros and git installed)
+cd to the src folder in your catkin workspace, and clone this repository there (must have ROS and git installed)
 
 RUN: git clone https://github.com/rachelbe/keyboard_control.git
 
