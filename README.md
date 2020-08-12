@@ -6,6 +6,6 @@ This is a basic keyboard teleoperation/control module built for ROS Noetic. Inte
 
 cd to the src folder in your catkin workspace, and clone this repository there (must have ROS and git installed)
 
-RUN: git clone [GitHub]https://github.com/rachelbe/keyboard_control.git
+RUN: git clone https://github.com/rachelbe/keyboard_control.git
 
 -Install the python getch module: pip3 install getch
